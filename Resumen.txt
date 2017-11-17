@@ -1,0 +1,17 @@
+Nivel 1
+Veces jugadas: 57
+Veces ganadas: 36
+Porcentaje de veces ganadas: 63.16%
+Record de menor turnos: 5 turnos
+
+Nivel 2
+Veces jugadas: 37
+Veces ganadas: 20
+Porcentaje de veces ganadas: 54.05%
+Record de menor turnos: 9 turnos
+
+Nivel 3
+Veces jugadas: 22
+Veces ganadas: 9
+Porcentaje de veces ganadas: 40.91%
+Record de menor turnos: 1 turnos
